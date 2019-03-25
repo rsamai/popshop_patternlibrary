@@ -1,1 +1,0 @@
-These buttons appear on the home page, with an image background.
