@@ -2,7 +2,7 @@
     "project_logo": "./assets/images/popshoplogo.png",
     "project_favicon": "favicon.png",
     "project_name": "Popshop",
-    "project_url": null,
+    "project_url": "thisispopshop.com",
     "copyright_start_year": 2019,
     "client_name": null,
     "client_url": null,
@@ -108,6 +108,28 @@
                     "group": "buttons",
                     "name": "primarybutton",
                     "title": "Buttons",
+                    "options": {
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "userresearch",
+            "title": "User Research",
+            "components": [
+                {
+                    "group": "userresearch",
+                    "name": "persona",
+                    "title": "Persona",
+                    "options": {
+                        "disable_code_sample": true
+                    }
+                },
+                {
+                    "group": "userresearch",
+                    "name": "hypothesis",
+                    "title": "Hypotheses Chart",
                     "options": {
                         "disable_code_sample": true
                     }
