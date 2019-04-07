@@ -33,7 +33,7 @@ A true entrepreneur, Tiffany Yeung has built multiple businesses, including an e
 She’s a passionate leader focused on user experience, product management, and human-centered design. Honored by 30 Under 30: Cal Poly’s Most Influential Women, she’s an advocate for empowering women in STEM. She’s a speaker for Girls Who Code and leads Camp PolyHacks, Cal Poly’s social-entrepreneurship, multidisciplinary hackathon that united 300+ designers, developers, and entrepreneurs. She worked as a software engineer at the Y Combinator alum startup Lockitron, product manager at Microsoft where she increased user count by 103% to 5.5 million users, and UX designer for a subscription based personalized cosmetic company and an IoT smart hub application.
 
 ## Makena Kong
-<img src="./assets/images/rutu.jpg" width="200" height="200">
+<img src="./assets/images/makena.jpg" width="200" height="200">
 <br> <br>
 **Software Engineer**
 * Researching, designing, implementing and managing software programs 
