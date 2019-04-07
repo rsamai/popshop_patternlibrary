@@ -43,9 +43,19 @@
         "title": "Documentation",
         "pages": [
             {
-                "name": "introduction",
-                "title": "Introduction",
-                "file": "./pages/intro.md"
+                "name": "about",
+                "title": "About",
+                "file": "./pages/about.md"
+            },
+            {
+                "name": "stack",
+                "title": "Stack",
+                "file": "./pages/stack.md"
+            },
+            {
+                "name": "team",
+                "title": "Team",
+                "file": "./pages/team.md"
             }
         ]
     },

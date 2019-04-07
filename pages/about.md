@@ -1,5 +1,4 @@
 # This is Popshop.
-
 Popshop allows users to shop pre-approved clothing with custom parameters in a consolidated supply chain, congregate all event information in one location and offer custom websites for every function. We are combining the best of both worlds -the expertise of each individual community leader with our trusted technology to allow for safer and stress-free personalized shopping experiences
 
 ## Vision
