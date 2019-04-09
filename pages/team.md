@@ -2,7 +2,7 @@
 
 
 ## Tiffany Yeung
-<img src="./assets/images/rutu.jpg" width="200" height="200">
+<img src="./assets/images/tiffany.jpg" width="200" height="200">
 <br> <br>
 **Chief Executive Officer**
 * Set direction and business strategy for company, make sure we are in line for meeting long and short term goals
@@ -48,7 +48,7 @@ She’s a passionate leader focused on user experience, product management, and 
 Makena Kong is a highly-motivated software engineer enthusiastic about web development, fashion, design and art. She founded and built an e-commerce bicycling merchandise company and specializes in machine learning, data scraping and visualization.
 
 ## Kimie Lewis
-<img src="./assets/images/rutu.jpg" width="200" height="200">
+<img src="./assets/images/kimie.jpg" width="200" height="200">
 <br> <br>
 **UX Designer**
 * Help communicate brand message 
