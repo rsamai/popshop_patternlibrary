@@ -46,16 +46,3 @@ She’s a passionate leader focused on user experience, product management, and 
 
 *Background* <br>
 Makena Kong is a highly-motivated software engineer enthusiastic about web development, fashion, design and art. She founded and built an e-commerce bicycling merchandise company and specializes in machine learning, data scraping and visualization.
-
-## Kimie Lewis
-<img src="./assets/images/kimie.jpg" width="200" height="200">
-<br> <br>
-**UX Designer**
-* Help communicate brand message 
-* Develop graphics/designs that reflect our culture and goals for product illustrations, logos, websites, etc. 
-* Monitor creative development for consistency across all consumer facing channels 
-* Help create social media/marketing plans 
-* UI/UX design <br>
-
-*Background* <br>
-Kimie Lewis is a graphic designer and the creative force of the company. She has led design for PCV, an e-commerce fashion platform and worked in print design for a Cal Poly magazine. She is highly trained in analyzing consumer-facing experiences and testing, as well as visual art and product design. 
