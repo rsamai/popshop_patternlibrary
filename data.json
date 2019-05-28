@@ -56,6 +56,11 @@
                 "name": "team",
                 "title": "Team",
                 "file": "./pages/team.md"
+            },
+            {
+                "name": "branding",
+                "title": "Branding Process",
+                "file": "./pages/branding.md"
             }
         ]
     },
@@ -79,8 +84,8 @@
                     "type": "colors",
                     "colors": [
                         "#FAE4E9",
-                        "#000000",
-                        "FFFFFF"
+                        "#000000,#2e2e2e",
+                        "#FFFFFF,#F8F8F8"
                     ],
                     "options": {
                         "disable_code_sample": true
@@ -116,8 +121,14 @@
             "components": [
                 {
                     "group": "buttons",
+                    "name": "default",
+                    "title": "Landing Page Button",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
                     "name": "primarybutton",
-                    "title": "Buttons",
+                    "title": "Subdomain Page Button",
                     "options": {
                         "disable_code_sample": true
                     }

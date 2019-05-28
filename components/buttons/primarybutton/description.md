@@ -1,1 +1,1 @@
-These buttons appear on the home page, with an image background.
+These opaque buttons appear on the subdomain websites, with an image in the background.
